@@ -30,7 +30,7 @@ The goal of this week’s internship task was to conduct **in-depth Exploratory 
 ---
 
 ## 🚀 Next Steps
-The engineered dataset will now be used for building and testing machine learning models in the upcoming weeks.
+The engineered dataset will now be used for building and testing machine learning models.
 
 ---
 
